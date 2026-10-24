@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm a Web Developer</h1><br><h3 align="center">Passionate about building modern web applications 🚀</h3><br><br>* 🔭 I’m currently working on **Web Development Projects**<br>* 🌱 I’m learning **React.js & Backend Development**<br>* 💬 Ask me about **JavaScript, DOM, React**<br>* ⚡ Fun fact: I enjoy coding and solving real-world problems<br><br>### 🚀 Projects<br><br>* 🔗 Digital Library Management System<br>  https://6970e2b947eff9804589deb1--jvit-library.netlify.app/<br><br>### 🛠️ Tech Stack<br><br>* HTML | CSS | JavaScript | React<br>* Git | GitHub<br><br>### 📫 Connect with me<br><br>* Email: siddharth.hm2@gmail.com<br>
+<h1 align="center">Hi 👋, I'm a Full Stack developer</h1><br><h3 align="center">Passionate about building modern web applications 🚀</h3><br><br>* 🔭 I’m currently working on **Web Development Projects**<br>* 🌱 I’m learning **React.js & Backend Development**<br>* 💬 Ask me about **JavaScript, DOM, React**<br>* ⚡ Fun fact: I enjoy coding and solving real-world problems<br><br>### 🚀 Projects<br><br>* 🔗 Digital Library Management System<br>  https://6970e2b947eff9804589deb1--jvit-library.netlify.app/<br><br>### 🛠️ Tech Stack<br><br>* HTML | CSS | JavaScript | React<br>* Git | GitHub<br><br>### 📫 Connect with me<br><br>* Email: siddharth.hm2@gmail.com<br>
 
 
 ## 🌐 Socials:
